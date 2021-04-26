@@ -1,4 +1,6 @@
 # recipe_app
+Program written by Bryan Morandi - 2021
+
 Created an app with Python, Tkinter and Pillow to store images of recipes.
 
 Over the past few months I have accumulated a number of vegitarian/vegan recipes that I have found cut out from 
