@@ -2,7 +2,7 @@
 Created an app with Python, Tkinter and Pillow to store images of recipes.
 
 Over the past few months I have accumulated a number of vegitarian/vegan recipes that I have found cut out from 
-cooking magazines and the New York Times. I have stored these in a file but have lost some of the recipes or 
+cooking magazines and the New York Times. I have stored these in a physical folder but have lost some of the recipes or 
 have spilled something on the paper that ruins the recipe. 
 
 I thought that a Python app that could store these images of the recipes could be a fun and simple project that
